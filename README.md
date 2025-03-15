@@ -21,10 +21,8 @@ Welcome to my **Developer Portfolio**! 🌟 This portfolio highlights my skills,
 ### 🏠 Homepage  
 - A modern and interactive landing page.  
 - Introduction with a **catchy headline** and **animated visuals**.  
-- Smooth **scrolling effects** for a professional touch.  
-
-![Homepage](./Screenshot_Home.png)  
-
+- Smooth **scrolling effects** for a professional touch.
+  
 ---
 
 ### 🏆 Experience  
@@ -60,4 +58,4 @@ Welcome to my **Developer Portfolio**! 🌟 This portfolio highlights my skills,
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/Abhi01x/portfolio.git
