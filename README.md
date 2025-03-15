@@ -1,8 +1,7 @@
 # 🚀 Abhi's Developer Portfolio
 
-![Portfolio Screenshot](./Screenshot.png)  
 
-Welcome to my personal **Developer Portfolio**! 🌟 This website is a showcase of my skills, projects, and experience in web development, AI, ML, and blockchain.  
+Welcome to my **Developer Portfolio**! 🌟 This portfolio highlights my skills, experience, projects, and ways to connect with me.
 
 🔗 https://abhishektech.netlify.app/
 
@@ -12,32 +11,52 @@ Welcome to my personal **Developer Portfolio**! 🌟 This website is a showcase 
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Styling:** Tailwind CSS  
-- **Responsive Design:** Media Queries  
+- **Animations:** AOS.js & GSAP  
 - **Version Control:** Git & GitHub  
 
 ---
 
-## ✨ Features
+## ✨ Sections Overview
 
-- 🎨 **Modern & Minimal UI**  
-- 📱 **Fully Responsive** (Mobile-friendly)  
-- 🚀 **Smooth Animations & Transitions**  
-- 📄 **Downloadable CV & Contact Info Section**  
-- 🌌 **Dark Themed Design**  
+### 🏠 Homepage  
+- A modern and interactive landing page.  
+- Introduction with a **catchy headline** and **animated visuals**.  
+- Smooth **scrolling effects** for a professional touch.  
 
----
-
-## 📷 Screenshots
-
-### 🌟 Homepage  
-![Home](./Screenshot_1.png)  
-
-### 🏆 Experience Section  
-![Experience](./Screenshot_2.png)  
+![Homepage](./Screenshot_Home.png)  
 
 ---
 
-## 📌 How to Use
+### 🏆 Experience  
+- Showcases my **work experience**, **internships**, and **achievements**.  
+- Uses **cards** to display experience in a structured way.  
+
+
+---
+
+### 📖 About  
+- A brief introduction about **who I am** and **what I do**.  
+- Highlights my **technical skills** and **interests**.  
+- Features a cool **progress bar for skills**.  
+
+
+---
+
+### 💼 Projects  
+- Displays my **best projects** with **live demo** and **GitHub links**.  
+- Includes a **filter option** to sort projects by category.  
+- Uses **hover animations** to highlight projects.  
+
+---
+
+### 📬 Contact Us  
+- A **simple contact form** to reach out.  
+- Includes **social media links** and **email**.  
+- Fully **responsive and mobile-friendly**.  
+
+---
+
+## 📌 How to Run Locally
 
 1. Clone the repo:  
    ```bash
